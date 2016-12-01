@@ -1,0 +1,3 @@
+(actor)--[movie#@year]-->(actor)--...
+(BEN)--[MOVIE3#@2014]-->(MATT)
+(BEN)--[MOVIE3#@2014]-->(MATT)--[MOVIE2#@2014]-->(KEVIN)
